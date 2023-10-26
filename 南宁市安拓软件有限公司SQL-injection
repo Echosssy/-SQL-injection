@@ -5,6 +5,8 @@ Attribution certificate
 Quake search：
 body="Nanning Ontall Software" 
 
+The user name parameter in the login box has sql injection
+
 Vulnerability recurrence:
 http://222.180.168.218:8318/login.aspx
 POST /login.aspx HTTP/1.1
